@@ -1,0 +1,11 @@
+{
+  "name": "webscraper",
+  "version": "0.0.1",
+  "description": "a sandbox for testing web scraping technology",
+  "main": "server.js",
+  "author": "david orr",
+  "license": "GPL",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
